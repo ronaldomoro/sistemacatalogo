@@ -117,7 +117,7 @@ $estudios = $crud->getSQLGeneric($sqlEstudios, NULL, true);
 </head>
 <body>
 <center>
-    <h2>SISTEMA PHP CADASTROS DEPLOY</h2>
+    <h2>SISTEMA PHP CADASTROS</h2>
     <table colspan="1" cellpadding="15" cellspacing="1">
         <tr style="background-color: darkolivegreen;font-weight: bold;">
             <td><a href="index.php">HOME</a></td>
