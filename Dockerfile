@@ -5,7 +5,6 @@ RUN apt-get update \
     && apt-get install -y zlib1g-dev \
     && rm -rf /var/lib/apt/lists/* \
     && apt-get install mariadb-client -y \
-    && apt-get install nano	-y \
     && docker-php-ext-install zip
 
 
